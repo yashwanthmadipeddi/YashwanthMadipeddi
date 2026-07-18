@@ -1,21 +1,35 @@
-# Hi 👋, I'm Yashwanth Madipeddi
+## Hi there 
 
-### MERN Stack Developer
-
-I'm a Computer Science undergraduate passionate about building modern, scalable, and responsive web applications using the MERN Stack.
-
-Currently focusing on:
-
-- 🚀 MERN Stack Development
-- ⚛ React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🎨 Tailwind CSS
-- 🔗 REST APIs
-- 💻 Clean and Responsive UI Design
-
-I'm actively building real-world projects to strengthen my full-stack development skills and am open to internship and entry-level software developer opportunities.
+I'm a Python Full Stack Developer passionate about building scalable, secure, and user-friendly web applications.
 
 ### Tech Stack
 
-JavaScript • React.js • Node.js • Express.js • MongoDB • HTML5 • CSS3 • Tailwind CSS • Git • GitHub
+ Python
+
+ Django
+
+ React
+
+ PostgreSQL
+
+ REST APIs
+
+ AWS (Learning)
+
+### Currently Learning
+
+- Advanced Django
+- Django REST Framework
+- React.js
+- PostgreSQL
+- AWS Cloud
+- Data Structures & Algorithms
+
+### Goals
+
+- Build production-ready full-stack applications
+- Contribute to open-source projects
+- Secure a Python Full Stack Developer internship
+- Continuously improve software engineering skills
+
+Always open to collaboration and learning new technologies.
