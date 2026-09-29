@@ -1,155 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1B3A6B&height=220&section=header&text=Yashwanth%20Madipeddi&fontSize=46&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=56&descSize=19&descColor=64B5F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0D2338,100:123A5A&height=230&section=header&text=Yashwanth%20Madipeddi&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=36&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=18&descColor=8DD3FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=Django+%2B+React+%2B+PostgreSQL;Turning+ideas+into+production-ready+apps;Open+to+Full+Stack+Internship+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=8DD3FF&center=true&vCenter=true&width=760&lines=Python+%2B+Django+%2B+DRF+%2B+React;PostgreSQL+%7C+REST+APIs+%7C+JWT+Authentication;Building+production-oriented+full-stack+applications" alt="Typing animation"/>
 
-<br><br>
+<br/>
+
+<a href="https://github.com/yashwanthmadipeddi">
+<img src="https://img.shields.io/badge/GitHub-0B1522?style=for-the-badge&logo=github&logoColor=8DD3FF"/>
+</a>
 
 <a href="https://linkedin.com/in/yashwanthmadipeddi">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A192F&logoColor=64B5F6&labelColor=0A192F&style=for-the-badge" height="32" />
+<img src="https://img.shields.io/badge/LinkedIn-0B1522?style=for-the-badge&logo=linkedin&logoColor=8DD3FF"/>
 </a>
+
 <a href="mailto:yashwanthmadipeddi25@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A192F&logoColor=64B5F6&labelColor=0A192F&style=for-the-badge" height="32" />
-</a>
-<a href="https://github.com/yashwanthmadipeddi">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0A192F&logoColor=64B5F6&labelColor=0A192F&style=for-the-badge" height="32" />
+<img src="https://img.shields.io/badge/Email-0B1522?style=for-the-badge&logo=gmail&logoColor=8DD3FF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=yashwanthmadipeddi&style=for-the-badge&color=0A192F&labelColor=0A192F" height="32" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yashwanthmadipeddi&style=for-the-badge&color=123A5A&labelColor=07111F" alt="Profile views"/>
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1B3A6B&height=3&section=header" width="100%"/>
+## 👨‍💻 About Me
 
-## About Me
+I’m a **Python Full Stack Developer** focused on building responsive, API-driven web applications with clean backend architecture and practical frontend experiences.
 
-> Python Full Stack Developer who builds scalable, secure, and user-friendly web applications — from the database layer up to a polished UI.
+- 🐍 **Backend:** Python, Django, Django REST Framework
+- ⚛️ **Frontend:** React, TypeScript, JavaScript, Tailwind CSS
+- 🗄️ **Data:** PostgreSQL, SQLite
+- 🔐 **Engineering:** REST APIs, JWT authentication, RBAC, validation, testing
+- ☁️ **Deployment:** Vercel, Render, Neon PostgreSQL
+- 🤖 **AI:** Gemini-powered application features and AI-assisted workflows
 
-**What I'm doing right now:**
+> I enjoy taking an idea from **database → API → business logic → responsive UI → deployment**.
 
-| | |
-|---|---|
-| 🎯 | Actively seeking a **Full Stack Developer internship** |
-| 🏗️ | Building end-to-end apps with **Django + React + PostgreSQL** |
-| 📚 | Sharpening **DRF, PostgreSQL internals, and AWS** |
-| 🤝 | Open to collaborating on open-source & full-stack builds |
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1B3A6B&height=3&section=header" width="100%"/>
-
-## Tech Stack
+## 🧰 Core Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,postgres,js,html,css,git,github,aws,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,react,typescript,javascript,postgres,sqlite,tailwind,html,css,git,github&theme=dark" />
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<th align="left" width="50%">Backend & Data</th>
-<th align="left" width="50%">Frontend & Tools</th>
-</tr>
-<tr>
-<td valign="top">
+### Backend
 
-- Python
-- Django · Django REST Framework
-- REST API Design
-- PostgreSQL · SQLite
+`Python` · `Django` · `Django REST Framework` · `REST API` · `JWT` · `RBAC`
+
+### Frontend
+
+`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML5` · `CSS3` · `React Router`
+
+### Database & Deployment
+
+`PostgreSQL` · `SQLite` · `Neon` · `Vercel` · `Render`
+
+### Development
+
+`Git` · `GitHub` · `VS Code` · `API Testing` · `Unit Testing`
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### [CareerKonnect AI](https://github.com/yashwanthmadipeddi/careerkonnectAI)
+
+AI-powered recruitment and career management platform connecting candidates, recruiters, companies, and administrators.
+
+**Key Features**
+
+- Role-based authentication and protected workflows
+- Job posting and application management
+- ATS-style application tracking
+- AI resume analysis
+- AI skill-gap analysis
+- AI cover-letter generation
+- AI mock interview generation
+- AI career roadmap generation
+- Interview scheduling
+
+**Stack**
+
+`Django` `DRF` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `JWT` `Gemini AI`
 
 </td>
-<td valign="top">
 
-- React · JavaScript
-- HTML5 · CSS3
-- Git & GitHub
-- AWS *(in progress)* · Linux
+<td width="33%" valign="top">
+
+### [FieldFlow](https://github.com/yashwanthmadipeddi/Fieldflow)
+
+Service and workforce management platform coordinating customers, business owners, and field workers through an end-to-end service lifecycle.
+
+**Key Features**
+
+- Role-based dashboards
+- Service request management
+- Worker assignment and job tracking
+- Scheduling and workflow state transitions
+- Status history and audit tracking
+- Notifications
+- Invoice and invoice-item management
+- Customer completion verification
+- Work-proof URL handling
+
+**Stack**
+
+`Django` `DRF` `React` `TypeScript` `PostgreSQL` `Neon` `JWT` `Vercel` `Render`
 
 </td>
+
+<td width="33%" valign="top">
+
+### [ServiceDesk Platform](https://github.com/yashwanthmadipeddi/servicedesk)
+
+Responsive enterprise-style support and ticket management platform designed around separate workflows for admins, agents, and customers.
+
+**Key Features**
+
+- Admin, agent, and customer roles
+- Ticket lifecycle management
+- Queue and ticket operations
+- Dashboard analytics
+- Browser-persistent demo workspace
+- Exportable reports and ticket snapshots
+- Responsive UI and reusable components
+- Client-side data persistence with IndexedDB
+
+**Stack**
+
+`React` `JavaScript` `Vite` `React Router` `IndexedDB` `Recharts` `jsPDF` `html2canvas`
+
+</td>
+
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1B3A6B&height=3&section=header" width="100%"/>
+## 🏗️ How I Build
 
-## Featured Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[CareerKonnectAI](https://github.com/yashwanthmadipeddi/careerkonnectAI)**
-AI-powered full-stack job portal with secure authentication, AI-driven features, and a modern recruitment workflow.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A192F?style=flat-square&logoColor=64B5F6) ![FullStack](https://img.shields.io/badge/-Full%20Stack-0A192F?style=flat-square&logoColor=64B5F6) ![AI](https://img.shields.io/badge/-AI%20Integration-0A192F?style=flat-square&logoColor=64B5F6)
-
-</td>
-<td width="50%" valign="top">
-
-**[Portfolio](https://github.com/yashwanthmadipeddi/portfolio)**
-Personal portfolio website built with React, Vite, and Tailwind CSS.
-
-![React](https://img.shields.io/badge/-React-0A192F?style=flat-square&logoColor=64B5F6) ![Vite](https://img.shields.io/badge/-Vite-0A192F?style=flat-square&logoColor=64B5F6) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-0A192F?style=flat-square&logoColor=64B5F6)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[DecodeLabs — Task 2](https://github.com/yashwanthmadipeddi/decodelabs_task-2)**
-Django REST Framework backend API with CRUD operations, built during an internship task.
-
-![Python](https://img.shields.io/badge/-Python-0A192F?style=flat-square&logoColor=64B5F6) ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-0A192F?style=flat-square&logoColor=64B5F6) ![SQLite](https://img.shields.io/badge/-SQLite-0A192F?style=flat-square&logoColor=64B5F6)
-
-</td>
-<td width="50%" valign="top">
-
-**[DecodeLabs — Task 3](https://github.com/yashwanthmadipeddi/decodelabs_task-3)**
-Full-stack AI company website — Django REST API backend integrated with a JavaScript/HTML/CSS frontend.
-
-![Django](https://img.shields.io/badge/-Django%20REST%20API-0A192F?style=flat-square&logoColor=64B5F6) ![JS](https://img.shields.io/badge/-JavaScript-0A192F?style=flat-square&logoColor=64B5F6) ![Integration](https://img.shields.io/badge/-Full%20Stack-0A192F?style=flat-square&logoColor=64B5F6)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1B3A6B&height=3&section=header" width="100%"/>
-
-## Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashwanthmadipeddi&show_icons=true&theme=default&hide_border=true&bg_color=0A192F&title_color=64B5F6&icon_color=64B5F6&text_color=E6F1FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthmadipeddi&hide_border=true&background=0A192F&ring=64B5F6&fire=64B5F6&currStreakLabel=64B5F6&sideLabels=E6F1FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8FA3C0" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthmadipeddi&layout=compact&hide_border=true&bg_color=0A192F&title_color=64B5F6&text_color=E6F1FF" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthmadipeddi&hide_border=true&bg_color=0A192F&color=64B5F6&line=64B5F6&point=E6F1FF&area_color=1B3A6B&area=true" width="98%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashwanthmadipeddi&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1B3A6B&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>Built with Python & Django · Always open to collaboration</sub>
-</div>
+```text
+                        USER / BROWSER
+                              │
+                              ▼
+                   ┌──────────────────┐
+                   │  Responsive UI   │
+                   │ React + TS/JS    │
+                   └────────┬─────────┘
+                            │
+                            ▼
+                   ┌──────────────────┐
+                   │  Routing / State │
+                   │ React Router     │
+                   └────────┬─────────┘
+                            │
+                            ▼
+                   ┌──────────────────┐
+                   │    REST APIs     │
+                   └────────┬─────────┘
+                            │
+                            ▼
+             ┌──────────────────────────────┐
+             │ Django + Django REST Framework│
+             └──────────────┬───────────────┘
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+        Authentication            Business Logic
+        JWT / RBAC / Roles        Validation / Rules
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                   ┌──────────────────┐
+                   │   PostgreSQL     │
+                   │   / SQLite       │
+                   └────────┬─────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │ Cloud Deployment   │
+                  │ Vercel / Render    │
+                  │ Neon PostgreSQL    │
+                  └────────────────────┘
